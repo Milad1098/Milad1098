@@ -11,4 +11,4 @@ I'm now moving into AI research — mainly the **security of LLM-powered web age
 
 **Stack:** Python · Django · Next.js · aiogram · C#/.NET · PyTorch · PostgreSQL · Linux/nginx
 
-**Find me:** [Website](https://miladmobaseri.ir/en) · [LinkedIn](https://linkedin.com/in/milad-mobaseri)
+**Find me:** [Website](https://miladmobaseri.ir/en) · [LinkedIn](https://linkedin.com/in/milad-mobaseri) · [ORCID](https://orcid.org/0009-0001-1037-2890)
